@@ -9,5 +9,4 @@ public class PasteboxApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PasteboxApplication.class, args);
 	}
-
 }
